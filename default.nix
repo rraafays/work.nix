@@ -20,6 +20,7 @@ in
     with pkgs;
     [
       awscli2
+      jira-cli-go
     ]
     ++ (if pkgs.stdenv.isDarwin then [ ] else [ ]);
 }
