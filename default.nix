@@ -6,11 +6,12 @@ in
 {
   homebrew = {
     casks = [
-      "intellij-idea"
-      "webstorm"
-      "microsoft-teams"
-      "microsoft-outlook"
       "docker"
+      "google-chrome"
+      "intellij-idea"
+      "microsoft-outlook"
+      "microsoft-teams"
+      "webstorm"
     ];
     brews = [
     ];
