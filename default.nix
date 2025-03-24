@@ -9,7 +9,6 @@ in
       "docker"
       "google-chrome"
       "intellij-idea"
-      "microsoft-outlook"
       "microsoft-teams"
       "webstorm"
     ];
