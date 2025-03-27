@@ -13,6 +13,7 @@ in
       "webstorm"
     ];
     brews = [
+      "session-manager-plugin"
     ];
   };
 
